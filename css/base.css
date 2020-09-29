@@ -1,0 +1,23 @@
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #20acca;
+    --border-color: #e4e4e4;
+    --input-color: #b1b1b1;
+    --overlay-color: #393939;
+    --gray-color: #ebebeb;
+}
+* {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+body {
+    background-color: var(--white-color);
+    margin: 0;
+    padding: 0;
+}

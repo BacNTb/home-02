@@ -1,0 +1,352 @@
+@media only screen and (max-width: 1200px) {
+    .slide-title p {
+        font-size: 4.2rem;
+    }
+
+    .slide-title p.ship {
+        font-size: 1.4rem;
+        margin: 16px 0 30px;
+    }
+    
+    .slide-shop {
+        font-size: 1.6rem;
+    }
+
+    .banner-title--1, .banner-title--3 {
+        font-size: 2.5rem;
+    }
+    
+    .banner-title--2 {
+        font-size: 2.5rem;
+    }
+
+    .banner-deal--2 .banner-sale {
+        font-size: 5rem;
+    }
+
+    .banner-info {
+        font-size: 1.6rem;
+    }
+    
+    .item-date {
+        margin-right: 10px;
+    }
+    
+    .date {
+        padding: 8px;
+        width: 5rem;
+    }
+    
+    .item-date .number {
+        font-size: 1.6rem;
+        line-height: 1.6rem;
+    }
+    
+    .item-date .text {
+        font-size: 1.2rem;
+    }
+
+    .categori-img img {
+        height: 210px;
+        padding: 8px;
+    }
+
+    .overlay-1 {
+        border: 8px solid #fff;
+    }
+
+    .overlay {
+        border: 8px solid #fff;
+    }
+
+    .categori-img:hover .title-categori--1 {
+        font-size: 1.2rem;
+    }
+    
+    .categori-img:hover .title-categori {
+        font-size: 1.2rem;
+    }
+    
+    .title-categori {
+        font-size: 1.2rem;
+    }
+    
+    .title-categori--1 {
+        font-size: 1.2rem;
+    }
+
+    .banners-img::before {
+        font-size: 5rem;
+    }
+    
+    .banners-img::after {
+        font-size: 5rem;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .container-top {
+        padding: 12px 0;
+    }
+
+    .top-left {
+        display: none;
+    }
+
+    .main-search {
+        display: none;
+    }
+
+    .search-icon {
+        display: block;
+    }
+
+    .search-icon.search-none {
+        display: none;
+    }
+
+    .top-left--mini {
+        display: block;
+    }
+
+    .header__main {
+        padding: 20px 0;
+    }
+
+    .category.category-title {
+        display: none;
+    }
+
+    .slide-title p {
+        font-size: 3.3rem;
+    }
+
+    .slide-title p.ship {
+        font-size: 1.3rem;
+        margin: 14px 0 20px;
+    }
+    
+    .slide-shop {
+        font-size: 1.5rem;
+        padding-bottom: 3px;
+    }
+
+    .banners-img::before {
+        font-size: 3.8rem;
+    }
+    
+    .banners-img::after {
+        font-size: 3.8rem;
+    }
+
+    .search-title--top {
+        font-size: 2.8rem;
+    }
+
+    .search-control {
+        height: 50px;
+        margin: 40px auto 0;
+    }
+
+    .bnt-search {
+        font-size: 1.4rem;
+        height: 80%;
+        margin: 5px;
+    }
+
+    .footer__contact-title {
+        font-size: 1.6rem;
+    }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) { 
+    .banner-title--1, .banner-title--3 {
+        font-size: 2rem;
+    }
+    
+    .banner-title--2 {
+        font-size: 1.8rem;
+    }
+
+    .banner-deal--2 .banner-sale {
+        font-size: 4rem;
+    }
+
+    .banner-info {
+        font-size: 1.4rem;
+    }
+
+    .item-date {
+        margin-right: 8px;
+    }
+    
+    .date {
+        padding: 6px;
+        width: 4rem;
+    }
+    
+    .item-date .number {
+        font-size: 1.4rem;
+        line-height: 1.4rem;
+    }
+    
+    .item-date .text {
+        font-size: 1.1rem;
+    }
+
+    .categori-img:hover .title-categori--1 {
+        font-size: 0.9rem;
+    }
+
+    .categori-img img {
+        height: 150px;
+        padding: 6px;
+    }
+
+    .overlay-1 {
+        border: 6px solid #fff;
+    }
+
+    .overlay {
+        border: 6px solid #fff;
+    }
+    
+    .categori-img:hover .title-categori {
+        font-size: 1rem;
+    }
+    
+    .title-categori {
+        font-size: 1rem;
+    }
+    
+    .title-categori--1 {
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .container-top {
+        padding: 8px 0;
+    }
+
+    .top-left--nav {
+        font-size: 1.6rem;
+    }
+
+    .header__bottom {
+        padding: 8px 0;
+    }
+    
+    .category-title {
+        font-size: 1.3rem;
+    }
+
+    .navbar-item {
+        padding-left: 23px;
+    }
+
+    .slide-title p {
+        font-size: 2.4rem;
+    }
+
+    .slide-title p.ship {
+        font-size: 1.1rem;
+    }
+    
+    .slide-shop {
+        font-size: 1.4rem;
+    }
+
+    .categori-heading p, .new-heading p,
+    .selling-title-left p, .arrial-title-left p {
+        font-size: 3.2rem;
+
+    }
+    
+    .categori-heading p::after, .new-heading p::after,
+    .selling-title-left p::after, .arrial-title-left p::after {
+        font-size: 6rem;
+    }
+
+    .banners-img::before {
+        font-size: 3rem;
+    }
+    
+    .banners-img::after {
+        font-size: 3rem;
+    }
+
+    .banners-img a.view {
+        font-size: 1.4rem;
+    }
+
+    .banners-img a.view::after {
+        bottom: -3px;
+        height: 1px;;
+    }
+
+    .search-title--top {
+        font-size: 2.4rem;
+    }
+
+    .search-title--bottom {
+        font-size: 1.2rem;
+    }
+
+    .search-control {
+        height: 40px;
+        margin: 30px auto 0;
+    }
+
+    .bnt-search {
+        font-size: 1.2rem;
+        height: 80%;
+        margin: 4px;
+    }
+
+    .copyright-design {
+        text-align: center;
+    }
+
+    .list-card {
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .product-item--sm {
+        padding-left: 70px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .navbar-item {
+        padding-left: 14px;
+    }
+
+    .slide-title p {
+        font-size: 1.8rem;
+    }
+
+    .slide-title p.ship {
+        font-size: 1rem;
+        margin: 10px 0;
+    }
+    
+    .slide-shop {
+        font-size: 1.2rem;
+        padding-bottom: 2px;
+    }
+
+    .banners-img::before {
+        font-size: 2.6rem;
+    }
+    
+    .banners-img::after {
+        font-size: 2.6rem;
+    }
+
+    .banners-img a.view {
+        font-size: 1.3rem;
+    }
+}
